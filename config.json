@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterconnect",
+        "uuid": 610542,
+        "checksum": "aikzq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
